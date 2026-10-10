@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blairlibabu
+- 👋 Hi, I’m @libabu
 - 👀 I’m interested in ...IaC tools
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... Infrastracture projects
